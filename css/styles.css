@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Roboto&display=swap');@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Roboto&family=Square+Peg&display=swap');*{font-family:'Montserrat';padding:0;margin:0}h2{font-family:'Square Peg',cursive;font-size:xx-large}.encabezado{text-align:center}img{width:50%}.carrusel,.almuerzo,.comida,.postre{margin-bottom:10px}.almuerzo{padding:40px;text-align:center;background-color:#464E2E}.almuerzo
+p{text-align:left;color:white}.almuerzo
+a{text-align:left;color:#E9E5D6}.comida
+a{color:black}.postre
+a{text-align:left;color:black}.comida{padding:40px;text-align:center;background-color:#ACB992}.comida h3, .comida
+p{text-align:left}.postre{padding:40px;text-align:center}.postre h3, .postre
+p{text-align:left}header{color:white;background-color:#362706;margin-bottom:10px}body{background-color:#E9E5D6}.main{color:black}footer{background-color:#ACB992;color:black;text-align:center}.nav-link{color:white}.active{color:black}.centrar{text-align:center}.tarjeta{padding:10px;margin:10px}
